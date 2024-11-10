@@ -1,0 +1,5 @@
+homepage: "https://paolobietolini.com"
+documentation: "https://paolobietolini.com/tools"
+versions:
+  - sha: a0ea7b54631a26387279c9fe15c96c4b8fbd3010
+    changeNotes: Initial release.
