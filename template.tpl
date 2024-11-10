@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "GA4 Items to Dynamic Remarketing Items builder",
-  "categories": ["UTILITY", "Remarketing"],
+  "categories": ["UTILITY", "REMARKETING"],
   "description": "Maps GA4 Items into a Google Ads Dynamic Remarketing object. \nReference \u003ca href\u003d\"https://support.google.com/google-ads/answer/7305793?hl\u003den\u0026sjid\u003d14873146135060433884-EU\"\u003ehere\u003c/a\u003e",
   "containerContexts": [
     "WEB"
