@@ -102,7 +102,8 @@ ___SANDBOXED_JS_FOR_WEB_TEMPLATE___
 
 const copyFromDataLayer = require('copyFromDataLayer');
 const ecommerce = copyFromDataLayer('ecommerce');
-const ga4Items = data.useDataLayer ? ecommerce.items : data.items;
+const dataItems = data.items || undefined;
+const ga4Items = (data.useDataLayer && ecommerce)? ecommerce.items : dataItems;
 const log = require('logToConsole');
 const businessVertical = data.businessVertical;
 
