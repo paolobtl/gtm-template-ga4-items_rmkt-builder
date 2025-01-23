@@ -4,8 +4,7 @@
 
 This Google Tag Manager (GTM) template is designed to map GA4 eCommerce `items` into a Google Ads Dynamic Remarketing object. It enables businesses to seamlessly translate GA4 eCommerce data into a format suitable for Google Ads remarketing campaigns.
 
-|[Template Gallery](https://tagmanager.google.com/gallery/#/owners/paolobtl/templates/gtm-template-ga4-items_rmkt-builder)|
-| |
+[Template Gallery](https://tagmanager.google.com/gallery/#/owners/paolobtl/templates/gtm-template-ga4-items_rmkt-builder)
 ## Features
 
 - Extracts GA4 `items` array from the **Data Layer** or **manual input**.
